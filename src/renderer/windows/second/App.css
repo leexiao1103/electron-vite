@@ -1,0 +1,22 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+svg:hover {
+	filter: drop-shadow(0 0 2em #9feaf9);
+}
+
+.card {
+	padding: 2em;
+}
+
+.read-the-docs {
+	color: #888;
+}
+
+.testModule {
+	color: darkcyan;
+}
